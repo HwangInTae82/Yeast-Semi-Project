@@ -16,11 +16,11 @@ ERPProject - Yeast 세미 프로젝트는 베이커리 회사내에서의 입출
 <img src="https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-DBF34A?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Lombok-16A085?style=flat-square&logo=Lombok&logoColor=white">
-Spring Boot 3.4.3
-Java 17
-Oracle DB (ojdbc11)
-Lombok
-Spring Boot Devtools, Tomcat
+- Spring Boot 3.4.3
+- Java 17
+- Oracle DB (ojdbc11)
+- Lombok
+- Spring Boot Devtools, Tomcat
 
 `Communication`
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
