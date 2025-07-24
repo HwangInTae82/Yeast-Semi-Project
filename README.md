@@ -31,31 +31,23 @@ ERPProject - Yeast 세미 프로젝트는 베이커리 회사내에서의 입출
 - Spring Boot Starter Web
 - Spring Boot Devtools
 - Oracle JDBC Driver (ojdbc11)
--Lombok
+- Lombok
 
 ## 설치 및 실행 방법
-```bash
-git clone https://github.com/myuser/mytodoapp.git
-cd mytodoapp
 
 # 프론트
 cd frontend
 npm install
-npm start
-
-# 백엔드
-cd backend
-./gradlew bootRun
+npm run dev
 
 ## 주요 기능
-- 회원가입 및 로그인 (JWT 기반)
+- 회원가입 및 로그인
 - 할일관리
 - 일정관리
 
 ## 부가 기능
-- 소셜 로그인 (카카오)
-- 반응형 웹UI
-- 전역 style 정의하여 라이트/다크 모드 구현
+-
+-
 
 ## 팀원 소개
 
