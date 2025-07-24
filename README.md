@@ -50,8 +50,8 @@ npm run dev
 -
 
 ## 팀원 소개
-
 | 이름 | 포지션 | Contact |
+
 | 황인태 | AI | int0802@naver.com |
 | 최예찬 | BE | @gmail.com |
 | 전진영 | FE | @gmail.com |
