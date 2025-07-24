@@ -6,7 +6,7 @@ Spring Boot 기반으로 설계된 이 프로젝트는 팀원 간의 **협업, �
 
 
 ## 📌 프로젝트 개요
-- **개발 기간**: 2025-03-18 ~ 2025-04-14  
+- **개발 기간**: 2025-03-18 ~ 2025-04-14
 - **서비스 링크**: *(작성 예정)*
 
 
@@ -23,10 +23,10 @@ Spring Boot 기반으로 설계된 이 프로젝트는 팀원 간의 **협업, �
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Lombok-16A085?style=flat-square&logo=Lombok&logoColor=white">
 
-- Spring Boot 3.4.3  
-- Java 17  
-- Oracle DB (ojdbc11)  
-- Lombok  
+- Spring Boot 3.4.3
+- Java 17
+- Oracle DB (ojdbc11)
+- Lombok
 - Spring Boot Devtools, Tomcat
 
 **Communication**  
@@ -35,9 +35,9 @@ Spring Boot 기반으로 설계된 이 프로젝트는 팀원 간의 **협업, �
 
 
 ## 📦 사용 라이브러리 및 API
-- spring-boot-starter-web  
-- spring-boot-devtools  
-- oracle-ojdbc11  
+- spring-boot-starter-web
+- spring-boot-devtools
+- oracle-ojdbc11
 - lombok
 
 
@@ -60,7 +60,9 @@ npm run dev
 (예: 알림 기능, 캘린더 뷰, 마이페이지 등 — 추가 예정)
 
 👨‍👩‍👧‍👦 팀원 소개
-이름	포지션	Contact
-황인태	AI	int0802@naver.com
-최예찬	Backend (BE)	***@gmail.com
-전진영	Frontend (FE)	***@gmail.com
+| 이름 | 담당 기능 | Contact |
+| --- | --- | --- |
+| 최예찬 |  | haha020911@naver.com |
+| 전진영 | 로그인/  | yaho73m@gmail.com |
+| 황인태 | FE | int0802@naver.com |
+
