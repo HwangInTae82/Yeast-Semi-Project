@@ -4,11 +4,11 @@
 Spring Boot 기반으로 설계된 이 프로젝트는 팀원 간의 **협업, 요구분석, 시스템 설계, UI/UX 디자인, 기능 구현, 테스트**까지  
 실제 프로젝트의 전 과정을 경험하며 완성하였습니다.
 
+
 ## 📌 프로젝트 개요
 - **개발 기간**: 2025-03-18 ~ 2025-04-14  
 - **서비스 링크**: *(작성 예정)*
 
----
 
 ## 🛠 기술 스택
 
@@ -33,7 +33,6 @@ Spring Boot 기반으로 설계된 이 프로젝트는 팀원 간의 **협업, �
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 
----
 
 ## 📦 사용 라이브러리 및 API
 - spring-boot-starter-web  
@@ -41,7 +40,6 @@ Spring Boot 기반으로 설계된 이 프로젝트는 팀원 간의 **협업, �
 - oracle-ojdbc11  
 - lombok
 
----
 
 ## ⚙️ 설치 및 실행 방법
 
