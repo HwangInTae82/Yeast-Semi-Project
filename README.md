@@ -62,7 +62,7 @@ npm run dev
 👨‍👩‍👧‍👦 팀원 소개
 | 이름 | 담당 기능 | Contact |
 | --- | --- | --- |
-| 최예찬 |  | haha020911@naver.com |
+| 최예찬 | 로그인/회원가입/마이페이지/챗봇/예약신청 | haha020911@naver.com |
 | 전진영 | 로그인/  | yaho73m@gmail.com |
 | 황인태 | FE | int0802@naver.com |
 
