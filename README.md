@@ -80,9 +80,10 @@ ERP 시스템
 👨‍👩‍👧‍👦 팀원 소개<br>
 | 이름   | 담당 기능 | Contact              |
 |--------|-----------|----------------------|
+| 황인태 | READER    | int0802@naver.com    |
 | 최예찬 | DB        | qbsb147@naver.com    |
 | 전진영 | CM        | yaho73m@gmail.com    |
-| 황인태 | READER    | int0802@naver.com    |
+
 
 # 기본 설계
 
